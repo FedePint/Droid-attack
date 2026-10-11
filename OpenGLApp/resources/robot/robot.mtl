@@ -1,0 +1,50 @@
+# Blender 4.5.3 LTS MTL File: 'OG.blend'
+# www.blender.org
+
+newmtl Glowing_Hot_Metal
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd metal-mix_11.jpg
+
+newmtl Metal.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd metal_14_color.jpg
+map_Ks metal_14_roughness.jpg
+map_refl metal_14_metallic.jpg
+
+newmtl Metal_Worn_Gray
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metal01_diffuse.jpg
+map_Ks metal01_specular.jpg
+map_refl metal01_metallic.jpg
+
+newmtl Old_Metal
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd metal_diffuse01.jpg
+map_Ks metal_specular.jpg
+map_refl metal_metallic.jpg

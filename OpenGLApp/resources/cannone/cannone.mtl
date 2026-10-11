@@ -1,0 +1,47 @@
+# Blender 4.3.2 MTL File: 'cannone.blend'
+# www.blender.org
+
+newmtl Galvanized_steel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd standard galvanized steel, ideal for structures_BaseColor.jpg
+map_Ks standard galvanized steel, ideal for structures_Roughness.jpg
+map_refl standard galvanized steel, ideal for structures_Metallic.jpg
+map_Bump -bm 1.000000 standard galvanized steel, ideal for structures_Normal.jpg
+
+newmtl Scratched_steel
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd iron10_diffuse.jpg
+map_Ks iron10_specular.jpg
+map_refl iron10_metallic.jpg
+map_Bump -bm 1.000000 iron10_normal_opengl.jpg
+
+newmtl Stainless_Steel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Diffuse.jpg
+map_Ks Roughness.jpg
+
+newmtl Steel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd GWC Basic Steel_BaseColor.jpg
+map_Ks GWC Basic Steel_Metalness.jpg
+map_d GWC Basic Steel_BaseColor.jpg
+map_Bump -bm 1.000000 GWC Basic Steel_Normal.jpg

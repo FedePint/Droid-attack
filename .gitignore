@@ -1,0 +1,57 @@
+# ==========================================
+# Git ignore for Visual Studio / C++ OpenGL
+# ==========================================
+
+# Visual Studio temporary and cache files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.db
+*.opendb
+
+# Build outputs and intermediate folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+[Bb]in/
+[Oo]bj/
+
+# Intermediate compiled files
+*.obj
+*.o
+*.pch
+*.ipch
+*.idb
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+*.Build.CppClean.log
+*.log
+*.res
+*.exp
+
+# Build executables and dynamic libraries inside build output
+# (Preserve textures, models, shaders, fonts and audio)
+*.exe
+
+# Backup and temporary files
+* - Copia.*
+* - Copy.*
+*.bak
+*.tmp
+*.swp
+*~
+Thumbs.db
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+

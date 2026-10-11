@@ -1,0 +1,38 @@
+# Blender 4.5.3 LTS MTL File: 'OG.blend'
+# www.blender.org
+
+newmtl Broken_glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd glass_color.jpg
+map_Ks glass_Roughness.jpg
+map_Bump -bm 1.000000 glass_normal.jpg
+
+newmtl Inferno_Solar_Flare_Crust_Magma
+Ns 39.999996
+Ka 0.673333 0.673333 0.673333
+Kd 1.000169 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd metal-mix_11.jpg
+
+newmtl Rust_06
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color_map.jpg
+map_Ks roughness_map.jpg
+map_refl metalness_map.jpg
+map_Bump -bm 1.000000 normal_map_opengl.jpg
